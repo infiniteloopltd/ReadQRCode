@@ -1,0 +1,12 @@
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\bin\Debug\QRCodeReader.exe.config
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\bin\Debug\QRCodeReader.exe
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\bin\Debug\QRCodeReader.pdb
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\bin\Debug\zxing.dll
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\bin\Debug\zxing.presentation.dll
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\bin\Debug\zxing.pdb
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\bin\Debug\zxing.xml
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\bin\Debug\zxing.presentation.pdb
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\bin\Debug\zxing.presentation.xml
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\obj\Debug\QRCodeReader.csprojResolveAssemblyReference.cache
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\obj\Debug\QRCodeReader.exe
+c:\users\fiach\documents\visual studio 2013\Projects\QRCodeReader\obj\Debug\QRCodeReader.pdb
